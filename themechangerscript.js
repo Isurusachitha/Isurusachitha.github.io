@@ -50,6 +50,6 @@ function setTheme(mode){
 
 document.getElementById("submit-btn").addEventListener('click',function (){
 
-    window.alert(" Contact Form is Under-construction . Please use LinkedIn or Email to Reach me");
+    window.alert(" Contact Form is Under-construction . Please use LinkedIn or Email to Reach me .");
 
 } )
